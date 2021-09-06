@@ -13,7 +13,7 @@ Nosso  cliente  é a empresa  é Necto Systems.
 
 <h1>Equipe Alpha Team</h1>
 
-:boy: Andreww Augusto Dias Santos( Scrum Master) 
+:boy: Andrew Augusto Dias Santos( Scrum Master) 
 
 :man:  Carlos Fernando de Souza (Product Owner) 
 
